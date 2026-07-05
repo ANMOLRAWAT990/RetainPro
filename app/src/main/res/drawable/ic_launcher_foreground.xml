@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Base Retaining Wall Profile -->
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M 30,80 L 70,80 L 60,30 L 40,30 Z"/>
+
+    <!-- Bricks/Stones strokes -->
+    <path
+        android:strokeColor="#90A4AE"
+        android:strokeWidth="2"
+        android:pathData="M 36,65 L 68,65 M 34,70 L 69,70 M 32,75 L 69.5,75
+                          M 42,30 L 42,40 M 52,30 L 52,40
+                          M 40,40 L 40,50 M 50,40 L 50,50 M 60,40 L 60,50
+                          M 38,50 L 38,60 M 48,50 L 48,60 M 58,50 L 58,60
+                          M 38,40 L 62,40 M 36,50 L 64,50 M 34,60 L 66,60"/>
+</vector>

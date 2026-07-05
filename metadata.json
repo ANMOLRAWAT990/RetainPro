@@ -1,0 +1,6 @@
+{
+  "name": "RetainPro",
+  "description": "Android application for retaining wall design, structural analysis, and construction drawing export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
