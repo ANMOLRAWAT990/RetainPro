@@ -1,8 +1,5 @@
 # RetainPro
 
-<div align="center">
-  <img width="800" alt="RetainPro Banner"/>
-</div>
 
 ## Overview
 **RetainPro** is a comprehensive Android application built using Kotlin and Jetpack Compose. It serves as a specialized tool for structural engineers, architects, and construction professionals to design, analyze, visualize, and estimate costs for retaining walls. The app provides a seamless and interactive interface with various dedicated modules, streamlining the process of structural calculation and project estimation.
