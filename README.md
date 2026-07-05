@@ -1,7 +1,7 @@
 # RetainPro
 
 <div align="center">
-  <img width="800" alt="RetainPro Banner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+  <img width="800" alt="RetainPro Banner"/>
 </div>
 
 ## Overview
